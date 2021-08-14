@@ -14,7 +14,7 @@ import Icon from './Icon';
 import Layout from './Layout';
 import SectionActions from './SectionActions';
 import TeamSection from './TeamSection';
-import SectionTestimonials
+import SectionTestimonials from './SectionTestimonials'
 export {
     Action,
     BlogFeedSection,

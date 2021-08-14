@@ -144,6 +144,32 @@ models:
           type: model
           models:
             - action
+  section_testimonials:
+    type: object
+    label: Testimonials Section
+    extends:
+      - section
+    fields:
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section.
+      - type: enum
+        name: col_number
+        label: Columns
+        description: The number of testimonials in a row.
+        options:
+          - two
+          - three
+        default: three
+        required: true
+      - type: list
+        name: testimonials
+        label: Testimonials
+        items:
+          type: model
+          models:
+            - testimonial
   person:
     type: data
     label: Person

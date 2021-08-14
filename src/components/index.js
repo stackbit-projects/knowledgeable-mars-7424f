@@ -31,6 +31,7 @@ export {
     Icon,
     Layout,
     SectionActions,
+    SectionTestimonials,
     TeamSection
 };
 
@@ -50,5 +51,6 @@ export default {
     Icon,
     Layout,
     SectionActions,
+    SectionTestimonials,
     TeamSection
 };

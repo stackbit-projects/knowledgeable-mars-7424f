@@ -169,7 +169,7 @@ models:
         items:
           type: model
           models:
-            - 
+            - testimonial
   testimonial:
     type: object
     label: Testimonial

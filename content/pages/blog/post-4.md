@@ -13,7 +13,9 @@ image_alt: Post 4 placeholder image
 excerpt: >-
   Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
   Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  vitium consuetudo Latina traduceret.stackbit.yaml content LICENSE.md
+  netlify.toml next.config.js package-lock.json package.json public README.md
+  sourcebit.js src components layouts pages sass utils
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'

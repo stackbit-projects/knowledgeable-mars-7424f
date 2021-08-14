@@ -4,6 +4,10 @@ sections:
   - type: hero_section
     title: Blog
     align: center
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
   - type: blog_feed_section
     show_recent: false
 seo:

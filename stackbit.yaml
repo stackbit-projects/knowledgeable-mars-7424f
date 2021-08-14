@@ -339,6 +339,7 @@ models:
             - cta_section
             - features_section
             - hero_section
+            - section_testimonials
             - team_section
       - type: model
         name: seo
